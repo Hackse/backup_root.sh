@@ -35,13 +35,13 @@ Usage:
 
 Example:
 ========
-./backup_root.sh /media/my_nfs_server/backups/
-Starting example.com's backup at Sat May 17 23:44:15 CEST 2014 ...
-tar: Removing leading `/' from member names
-tar: /var/spool/postfix/private/virtual: socket ignored
-tar: /var/spool/postfix/private/mailman: socket ignored
-real	21m23.585s
-user	20m14.428s
-sys	0m33.290s
-example.com's backup ended successfully at Sun May 18 00:05:39 CEST 2014
+./backup_root.sh /media/my_nfs_server/backups/  
+Starting example.com's backup at Sat May 17 23:44:15 CEST 2014 ...  
+tar: Removing leading `/' from member names  
+tar: /var/spool/postfix/private/virtual: socket ignored  
+tar: /var/spool/postfix/private/mailman: socket ignored  
+real	21m23.585s  
+user	20m14.428s  
+sys	0m33.290s  
+example.com's backup ended successfully at Sun May 18 00:05:39 CEST 2014  
 
